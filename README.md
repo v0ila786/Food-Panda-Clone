@@ -24,5 +24,5 @@ This marked our second Java project, a Food Panda clone (NOT Food Panda - the on
 
 -About Us Page, Main Menu, and Search History: Enhancing user experience with additional features.
 
-![About us ](image_url)
+![About us ](https://github.com/v0ila786/Food-Panda-Clone/blob/master/src/main/resources/About%20Us.png)
 
