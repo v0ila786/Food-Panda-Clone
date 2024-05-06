@@ -1,0 +1,33 @@
+LFC, Midnight Deal 1, 450, burger
+LFC, Hot Wings, 550, chicken
+LFC, Mighty Zinger, 680, burger 
+LFC, Family Festival, 1890, burger
+LFC, Krunch with Fries N Drink, 490, burger
+LFC, Value Bucket, 1750, chicken 
+LFC, Crispy Duo Box, 1150, chicken 
+LFC, Boneless Meal Box, 630, chicken
+LFC, Xtreme Duo Box, 1390, burger
+CheezyYes, Cheese Sticks, 560, cheese
+CheezyYes, Mexican Sandwich, 790, sandwich
+CheezyYes, Crunchy Chicken Pasta, 790, pasta
+CheezyYes, Pizza Stacker, 790, sandwich
+CheezyYes, Special Roasted Platter, 990, rolls
+CheezyYes, Oven Baked Wings, 490, chicken 
+CheezyYes, Calzone Chunks, 960, cheese
+Demonic Pizza, Chezzy Tikka, 470, pizza
+Demonic Pizza, Chiken Fajita, 490, pizza
+Demonic Pizza, Hot N Spoicy, 380, pizza
+Demonic Pizza, Behari Kebab, 680, pizza
+Demonic Pizza, Large Pizza Deal, 1200, pizza
+Demonic Pizza, Fries, 90, Fries
+Demonic Pizza, Chicken Piece, 200, Chicken
+Demonic Pizza, Vegetable Pizza, 560, pizza
+Demonic Pizza, Chicken Pepperoni Pizza, 560, pizza
+Demonic Pizza, Cheese Lover Pizza, 1360, pizza
+McDanish, Egg McMuffin Meal, 560, egg
+McDanish, Quarter Pounder with Cheese Deluxe, 990, burger
+McDanish, Hamburger Happy Meal, 1360, burger
+McDanish, 10 Piece Chicken McNuggets, 560, chicken
+McDanish, Blueberry Muffin with Caramel Frappe, 590, desert
+McDanish,Double Cheese Burger with Diet coke, 785, burger
+ 

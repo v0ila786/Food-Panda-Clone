@@ -1,0 +1,30 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x0000000105730e1c, pid=10486, tid=259
+#
+# JRE version: Java(TM) SE Runtime Environment (19.0.2+7) (build 19.0.2+7-44)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM (19.0.2+7-44, mixed mode, sharing, tiered, compressed oops, compressed class ptrs, g1 gc, bsd-aarch64)
+# Problematic frame:
+# V  [libjvm.dylib+0x580e1c]  JNIHandleBlock::allocate_handle(JavaThread*, oopDesc*, AllocFailStrategy::AllocFailEnum)+0x40
+#
+# No core dump will be written. Core dumps have been disabled. To enable core dumping, try "ulimit -c unlimited" before starting Java again
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugreport.java.com/bugreport/crash.jsp
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Djava.library.path=/Users/amal/Downloads/javafx-sdk-20.0.1/lib -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=51191:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 --module-path=/Users/amal/.m2/repository/org/openjfx/javafx-controls/19/javafx-controls-19-mac-aarch64.jar:/Users/amal/Downloads/javafx-sdk-20.0.1/lib/javafx.controls.jar:/Users/amal/Downloads/java-swing-login-ui-001-main/part 1/login-001/miglayout-4.0.jar:/Users/amal/Downloads/javafx-sdk-20.0.1/lib/javafx.base.jar:/Users/amal/.m2/repository/org/openjfx/javafx-base/19/javafx-base-19-mac-aarch64.jar:/Users/amal/Downloads/javafx-sdk-20.0.1/lib/javafx.graphics.jar:/Users/amal/.m2/repository/org/openjfx/javafx-graphics/19/javafx-graphics-19-mac-aarch64.jar:/Users/amal/Downloads/java-swing-login-ui-001-main/part 1/login-001/TimingFramework-0.55.jar:/Users/amal/Downloads/javafx-sdk-20.0.1/lib/javafx.media.jar:/Users/amal/IdeaProjects/NotFoodpandaTest/target/classes:/Users/amal/Downloads/javafx-sdk-20.0.1/lib/javafx.web.jar:/Users/amal/.m2/repository/org/openjfx/javafx-fxml/19/javafx-fxml-19-mac-aarch64.jar:/Users/amal/Downloads/javafx-sdk-20.0.1/lib/javafx.fxml.jar:/Users/amal/Downloads/javafx-sdk-20.0.1/lib/javafx.swing.jar -Djdk.module.main=com.example.notfoodpandatest com.example.notfoodpandatest/com.example.notfoodpandatest.NotFoodpanda
+
+Host: "MacBookPro17,1" arm64, 8 cores, 8G, Darwin 22.5.0, macOS 13.4 (22F66)
+Time: Sat May 27 01:47:20 2023 PKT elapsed time: 59.225926 seconds (0d 0h 0m 59s)
+
+---------------  T H R E A D  ---------------
+
+Current thread is native thread
+
+Stack: [0x000000016b580000,0x000000016bd7c000],  sp=0x000000016bd77570,  free space=8157k
+Native frames: (J=compiled Java code, j=interpreted, Vv=VM code, C=native code)
+V  [libjvm.dylib+0x580e1c]  JNIHandleBlock::allocate_handle(JavaThread*, oopDesc*, AllocFailStrategy::AllocFailEnum)+0x40
